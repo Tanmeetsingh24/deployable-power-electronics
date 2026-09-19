@@ -7,6 +7,8 @@
 
 ---
 
+![Deployable power system in a rugged case at UNSW](assets/project-power-lab.jpg)
+
 ## Problem statement
 
 Field-deployable hardware needed reliable **12 V / 24 V power conversion**, **automatic source selection**, and **ride-through** when mains or generator inputs dropped without an operator babysitting the rack.
